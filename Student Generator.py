@@ -1,4 +1,1 @@
-print("Test")
-print("Test3")
-print("Testing")
-print("T")
+# Kyan paste the student generator code here
