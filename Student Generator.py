@@ -1,2 +1,2 @@
 print("Test")
-print("Cum")
+print("Test2")
